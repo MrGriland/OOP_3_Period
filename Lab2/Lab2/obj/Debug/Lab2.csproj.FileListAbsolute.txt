@@ -1,0 +1,51 @@
+C:\Users\grish\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\grish\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\grish\source\repos\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\grish\source\repos\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\grish\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\grish\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\grish\source\repos\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\grish\source\repos\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+G:\Lab2\Lab2\bin\Debug\Lab2.exe.config
+G:\Lab2\Lab2\bin\Debug\Lab2.exe
+G:\Lab2\Lab2\bin\Debug\Lab2.pdb
+G:\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+G:\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+G:\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+G:\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+G:\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+G:\Lab2\Lab2\obj\Debug\Lab2.exe
+G:\Lab2\Lab2\obj\Debug\Lab2.pdb
+H:\Lab2\Lab2\bin\Debug\Lab2.exe.config
+H:\Lab2\Lab2\bin\Debug\Lab2.exe
+H:\Lab2\Lab2\bin\Debug\Lab2.pdb
+H:\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+H:\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+H:\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+H:\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+H:\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+H:\Lab2\Lab2\obj\Debug\Lab2.exe
+H:\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\grish\OneDrive\Рабочий стол\Универ\2 курс\2 семестр\ООП\Lab2\Lab2\obj\Debug\Lab2.pdb

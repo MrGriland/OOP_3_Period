@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<ArrayOfHouseForSerialize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HouseForSerialize>
+    <Flat>
+      <meters>65</meters>
+      <roomsCount>5</roomsCount>
+      <year>2019</year>
+      <material>Кирпич</material>
+      <floor>6</floor>
+      <options> ванна</options>
+    </Flat>
+    <Address>
+      <country>Украина</country>
+      <city>gt</city>
+      <district>gfhsd</district>
+      <street>sd</street>
+      <buildingNumber>1</buildingNumber>
+      <housing>5</housing>
+      <flatNumber>1</flatNumber>
+    </Address>
+  </HouseForSerialize>
+  <HouseForSerialize>
+    <Flat>
+      <meters>76</meters>
+      <roomsCount>5</roomsCount>
+      <year>2021</year>
+      <material>Панельный</material>
+      <floor>8</floor>
+      <options />
+    </Flat>
+    <Address>
+      <country>Польша</country>
+      <city>про</city>
+      <district>ыва</district>
+      <street>кке</street>
+      <buildingNumber>8</buildingNumber>
+      <housing>3</housing>
+      <flatNumber>6</flatNumber>
+    </Address>
+  </HouseForSerialize>
+  <HouseForSerialize>
+    <Flat>
+      <meters>67</meters>
+      <roomsCount>3</roomsCount>
+      <year>2021</year>
+      <material>Монолитный</material>
+      <floor>5</floor>
+      <options> ванна</options>
+    </Flat>
+    <Address>
+      <country>Германия</country>
+      <city>afa</city>
+      <district>gfdr</district>
+      <street>ere</street>
+      <buildingNumber>4</buildingNumber>
+      <housing>3</housing>
+      <flatNumber>8</flatNumber>
+    </Address>
+  </HouseForSerialize>
+</ArrayOfHouseForSerialize>
