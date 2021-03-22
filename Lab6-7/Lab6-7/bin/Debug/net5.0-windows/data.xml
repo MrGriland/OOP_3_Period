@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfAD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ad>
+    <ID>2876</ID>
+    <FullName>Розы Люксембург</FullName>
+    <Category>Квартира</Category>
+    <Raiting>10</Raiting>
+    <Cost>300</Cost>
+    <Amount>67</Amount>
+  </Ad>
+  <Ad>
+    <ID>5285</ID>
+    <FullName>Свердлова</FullName>
+    <Category>Дом</Category>
+    <Raiting>7</Raiting>
+    <Cost>170</Cost>
+    <Amount>76</Amount>
+  </Ad>
+</ArrayOfAD>

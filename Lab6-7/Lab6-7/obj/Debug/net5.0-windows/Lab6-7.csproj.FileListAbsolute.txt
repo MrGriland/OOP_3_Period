@@ -23,3 +23,7 @@ C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\obj\Debug\net5.0-windows\
 C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\bin\Debug\net5.0-windows\MaterialDesignColors.dll
 C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
 C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\obj\Debug\net5.0-windows\Lab6-7.csproj.CopyComplete
+C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\obj\Debug\net5.0-windows\Pages\MainPage.g.cs
+C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\obj\Debug\net5.0-windows\Pages\MainPage.baml
+C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\obj\Debug\net5.0-windows\Pages\AddPage.g.cs
+C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\obj\Debug\net5.0-windows\Pages\AddPage.baml
