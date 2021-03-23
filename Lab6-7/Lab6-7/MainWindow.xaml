@@ -8,7 +8,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Icon="C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\Images\homeicon.ico">
     <Window.Resources>
-        <FrameworkElement x:Key="MouseCursor" Cursor="c:\users\grish\source\repos\oop_3_period\lab6-7\lab6-7\images\mouse.cur"/>
+        <FrameworkElement x:Key="MouseCursor" Cursor="C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\Images\Mouse.cur"/>
     </Window.Resources>
     <Grid>
         <Grid x:Name="GridMenu" Height="60" VerticalAlignment="Top" Background="Black">
