@@ -6,35 +6,36 @@
         xmlns:local="clr-namespace:Lab6_7"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Icon="C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\Images\homeicon.ico">
+        Title="MainWindow" Height="700" Width="1160" ResizeMode="CanMinimize" Icon="C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\Images\homeicon.ico" MinWidth="800" MinHeight="700" Background="White">
     <Window.Resources>
         <FrameworkElement x:Key="MouseCursor" Cursor="C:\Users\grish\source\repos\OOP_3_Period\Lab6-7\Lab6-7\Images\Mouse.cur"/>
     </Window.Resources>
+    
     <Grid>
         <Grid x:Name="GridMenu" Height="60" VerticalAlignment="Top" Background="Black">
-        <StackPanel x:Name="MenuControlPanel" Orientation="Horizontal" Background="Black" Margin="5,0,398,0">
-            <Button x:Name="HomeButton" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalAlignment="Left" Foreground="Black" IsHitTestVisible="False">
-                <StackPanel Orientation="Horizontal" Background="White">
-                    <materialDesign:PackIcon Kind="Home" Width="25" Height="25" VerticalAlignment="Center" Margin="10 0 0 0" RenderTransformOrigin="1.526,0.617"></materialDesign:PackIcon>
-                    <TextBlock Text="Главная" VerticalAlignment="Center" Margin="10 10" FontSize="20"></TextBlock>
-                </StackPanel>
-            </Button>
-            <Button Height="60" x:Name="CreateAdButton" Background="{x:Null}" BorderBrush="{x:Null}" Width="254" IsHitTestVisible="False">
-                <StackPanel Orientation="Horizontal" Background="White" Width="277">
-                    <materialDesign:PackIcon Kind="PlusBoxMultiple" Width="25" Height="25" VerticalAlignment="Center" Margin="10 0 0 0"></materialDesign:PackIcon>
-                    <TextBlock Text="Создать объявление" VerticalAlignment="Center" Margin="10 10" FontSize="20"></TextBlock>
-                </StackPanel>
-            </Button>
-        </StackPanel>
+            <StackPanel x:Name="MenuControlPanel" Orientation="Horizontal" Background="Black" Margin="5,0,398,0">
+                <Button x:Name="HomeButton" Click="HomeButton_Click" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalAlignment="Left" Foreground="Black">
+                    <StackPanel Orientation="Horizontal" Background="White">
+                        <materialDesign:PackIcon Kind="Home" Width="25" Height="25" VerticalAlignment="Center" Margin="10 0 0 0" RenderTransformOrigin="1.526,0.617"></materialDesign:PackIcon>
+                        <TextBlock Text="Главная" VerticalAlignment="Center" Margin="10 10" FontSize="20"></TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button x:Name="CreateAdButton" Height="60" Click="CreateAdButton_Click" Background="{x:Null}" BorderBrush="{x:Null}" Width="254">
+                    <StackPanel Orientation="Horizontal" Background="White" Width="277">
+                        <materialDesign:PackIcon Kind="PlusBoxMultiple" Width="25" Height="25" VerticalAlignment="Center" Margin="10 0 0 0"></materialDesign:PackIcon>
+                        <TextBlock Text="Создать объявление" VerticalAlignment="Center" Margin="10 10" FontSize="20"></TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
 
-        <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Right">
-            <materialDesign:PopupBox Margin="10" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False" Foreground="White">
-                <StackPanel Width="150" Background="DarkGray">
-                    <Button x:Name="ButtonFAQ" Content="FAQ"/>
-                    <Button x:Name="ButtonPopUpLogout" Content="Logout"/>
-                </StackPanel>
-            </materialDesign:PopupBox>
-        </StackPanel>
+            <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Right">
+                <materialDesign:PopupBox Margin="10" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False" Foreground="White">
+                    <StackPanel Width="150" Background="DarkGray">
+                        <Button x:Name="ButtonAbout" Click="ButtonAbout_Click" Content="О программе"/>
+                        <Button x:Name="ButtonPopUpClose" Click="ButtonPopUpClose_Click" Content="Закрыть"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+            </StackPanel>
         </Grid>
         <Grid x:Name="GridMain" Margin="0,60,0,0">
         </Grid>

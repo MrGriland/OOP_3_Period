@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="Lab6_7.Pages.AddPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab6_7.Pages"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="1200" Background="AliceBlue">
+    <Grid Background="White">
+        <StackPanel Margin="10" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" Height="50" Width="477" >
+                <Label x:Name="AdFullNameLabel" Content="Адрес:" FontSize="20" Width="73" Height="40"/>
+                <TextBox x:Name="AdFullNameTextBox"  Margin="117 0 20 0" Foreground="Black" Width="243" Height="30" FontSize="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="50" Width="476">
+                <Label x:Name="AdRaitingLabel" Content="Состояние:" FontSize="20" Width="180" Height="40"/>
+                <TextBox Margin="10 0 20 0" x:Name="AdRaitingTextBox" Foreground="Black" Width="242" Height="30" FontSize="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="50" Width="477">
+                <Label x:Name="AdCostLabel" Content="Цена товара:" FontSize="20" Width="180" Height="40"/>
+                <TextBox Margin="10 0 20 0" x:Name="AdCostTextBox" Foreground="Black" Width="242" Height="30" FontSize="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="50" Width="478">
+                <Label x:Name="AdCategoryLabel" Content="Тип:" FontSize="20" Width="188" Height="40"/>
+                <ComboBox x:Name="AdCategoryTextBox" Margin="2 0 20 0" Width="242" Height="30" FontSize="16">
+                    <TextBlock><Run Text="Квартира"/></TextBlock>
+                    <TextBlock><Run Text="Дом"/></TextBlock>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="50" Width="475">
+                <Label x:Name="AdAmountLabel" Content="Метраж:" FontSize="20" Width="143" Height="40"/>
+                <TextBox Margin="45 0 20 0" x:Name="AdAmountTextBox" Foreground="Black" Width="242" Height="30" FontSize="20"/>
+            </StackPanel>
+
+            <Button x:Name="CreateAdButton" Click="CreateAdButton_Click" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Создать объявление" Margin="0 40 0 25" Width="470" Height="50" FontSize="20" Background="Black" BorderBrush="Black" Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

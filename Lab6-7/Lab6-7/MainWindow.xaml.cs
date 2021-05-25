@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab6_7.Pages;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +25,29 @@ namespace Lab6_7
         {
             InitializeComponent();
             Mouse.OverrideCursor = ((FrameworkElement)this.Resources["MouseCursor"]).Cursor;
+        }
+
+        private void HomeButton_Click(object sender, RoutedEventArgs e)
+        {
+            GridMain.Children.Clear();
+            GridMain.Children.Add(new MainPage(this));
+            
+        }
+
+        private void CreateAdButton_Click(object sender, RoutedEventArgs e)
+        {
+            GridMain.Children.Clear();
+            GridMain.Children.Add(new AddPage(this));
+        }
+
+        private void ButtonAbout_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Версия 1.0 ©MrGriland", "О программе", MessageBoxButton.OK);
+        }
+
+        private void ButtonPopUpClose_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }
